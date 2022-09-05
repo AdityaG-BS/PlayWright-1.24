@@ -5,7 +5,7 @@
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
 ## Setup
-
+Export BROWSERSTACK_USER & BROWSERSTACK_ACCESS_KEY
 * Clone the repo and run `cd playwright-test`
 * Run `npm install`
 
